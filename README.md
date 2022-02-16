@@ -1,2 +1,3 @@
 # voting-bot
-a bot which can vote in the porsline.ir :))
+sample a bot that can vote :))
+with selenium
